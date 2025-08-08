@@ -53,5 +53,5 @@ Click the button below to play my favorite logic puzzle — **Nonogram**!
 ---
 
 <p align="center">
-  <sub>Built with 💙 &amp; ☕ in Taiwan • Last updated on 2025-08-08</sub>
+  <sub>Thanks for following my github • Last updated on 2025-08-08</sub>
 </p>

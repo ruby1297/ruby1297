@@ -53,9 +53,13 @@ Click the button below to play my favorite logic puzzle — **Nonogram**!
 
 [![Nonogram Preview](assets/nonogram.gif)](https://ruby1297.github.io/nonograms/)
 
+## 🧮 GitHub Summary
 
-
-</p>
+![](https://raw.githubusercontent.com/ruby1297/github-profile-summary-cards/master/profile-summary-card-output/material_palenight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/ruby1297/github-profile-summary-cards/master/profile-summary-card-output/material_palenight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/ruby1297/github-profile-summary-cards/master/profile-summary-card-output/material_palenight/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/ruby1297/github-profile-summary-cards/master/profile-summary-card-output/material_palenight/3-stats.svg)
+![](https://raw.githubusercontent.com/ruby1297/github-profile-summary-cards/master/profile-summary-card-output/material_palenight/4-productive-time.svg)
 
 ---
 

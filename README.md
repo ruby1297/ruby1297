@@ -9,31 +9,32 @@
 building things that make people’s lives a little smarter and a lot more fun.
 </p>
 
-## 🚀 Tech Stack
+## 🧰 Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=anaconda,aws,c,cpp,css,docker,firebase,gcp,github,html,ai,js,java,linux,notion,php,ps,pr,py,pytorch,raspberrypi,tensorflow,unity&perline=8)](https://skillicons.dev)
+### Languages  
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,js,py,php,html,css&perline=8)](https://skillicons.dev)
+
+### Frameworks · Cloud · Libraries  
+[![Frameworks](https://skillicons.dev/icons?i=aws,gcp,docker,firebase,pytorch,tensorflow,unity&perline=8)](https://skillicons.dev)
+
+---
 
 ## 🛠 Featured Projects
 
 | Year | Project | Tech | Brief |
 |------|---------|------|-------|
-| 2024 | **AI-based Multimodal Mental Health Chatbot** | Python • LLM • LINE Bot | Integrates text / voice / image to detect emotions and give real-time feedback, backed by secure cloud storage. |
-| 2024 | **Classroom Behavior Analysis & Cheating Prevention** | TensorFlow • OpenCV • Flask • React | Face ID attendance on Raspberry Pi & Jetson Nano, gaze tracking + behavior detection, real-time dashboard. |
+| 2024 | **[AI-based Multimodal Mental Health Chatbot](https://github.com/ruby1297/Mobile-Application-Programming-Final-Project)** | Python · LLM · LINE Bot | Integrates text / voice / image to detect emotions and give real-time feedback. |
+| 2024 | **[Classroom Behavior Analysis & Cheating Prevention](https://github.com/ruby1297/Classroom-Behavior-Analysis-and-Cheating-Prevention-System)** | TensorFlow · OpenCV · React | Face-ID attendance on Raspberry Pi & Jetson Nano, gaze tracking + real-time dashboard. |
 
-<details>
-<summary>More details</summary>
-
-* **AI-based Chatbot** – improves accessibility with STT/TTS and LLM-enhanced responses.  
-  <https://github.com/ruby1297/Mobile-Application-Programming-Final-Project>
-
-* **Cheating Prevention System** – prize-winning InnoServe ICT project; scalable via Azure Blob Storage.  
-  <https://github.com/ruby1297/Classroom-Behavior-Analysis-and-Cheating-Prevention-System>
-
-</details>
 
 ## 🎮 Play Time
 
+Click the button below to play my favorite logic puzzle — **Nonogram**!
+
 [![Play Nonogram](https://img.shields.io/badge/Play-Nonogram-blue?style=for-the-badge)](https://ruby1297.github.io/nonograms/)
+
+[![Nonogram Preview](assets/nonogram.gif)](https://ruby1297.github.io/nonograms/)
+
 
 ## 🌐 Find Me Online
 

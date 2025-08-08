@@ -4,12 +4,28 @@
 
 # 🤍 Hi, I'm Ruby Hsieh (Ruby1297)
 
-<p align="center">
-🇹🇼 Computer Science senior @ Yuan-Ze University 
-</p>
-<p align="center">
-passionate about AI & XR, building things that make people’s lives a little smarter and a lot more fun.
-</p>
+## About Me
+
+🎓 I’m a senior at Yuan-Ze University majoring in Computer Science and Information Engineering, currently learning about AI, computer vision, and XR.  
+
+  
+🖥️ Seeking internship opportunities in Taiwan related to computer science, computer vision, or HCI (Human–Computer Interaction).  
+
+  
+📫 Reach me through the contact links below.
+
+
+<p>
+  <a href="https://www.linkedin.com/in/ruby1297/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yuyu199127@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/ruby.1297_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
+  </a>
+
 
 ## 📊 Tech Stack
 
@@ -38,18 +54,7 @@ Click the button below to play my favorite logic puzzle — **Nonogram**!
 [![Nonogram Preview](assets/nonogram.gif)](https://ruby1297.github.io/nonograms/)
 
 
-## 🌐 Find Me Online
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruby1297/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ruby.1297_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" />
-  </a>
-  <a href="mailto:yuyu199127@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
-  </a>
 </p>
 
 ---

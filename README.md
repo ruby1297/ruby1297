@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/intro.gif" height="180" alt="Ruby1297 intro animation" />
+  <img src="assets/intro.gif" alt="Ruby1297 intro animation" />
 </p>
 
 # Hi, I'm Ruby Hsieh (Ruby1297)
 
 <p align="center">
-🇹🇼 Computer Science senior @ Yuan-Ze University (GPA 3.96/4.0) — passionate about AI & XR,  
+🇹🇼 Computer Science senior @ Yuan-Ze University  — passionate about AI & XR,  
 building things that make people’s lives a little smarter and a lot more fun.
 </p>
 

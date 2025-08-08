@@ -2,14 +2,16 @@
   <img src="assets/intro.gif" alt="Ruby1297 intro animation" />
 </p>
 
-# Hi, I'm Ruby Hsieh (Ruby1297)
+# 🤍 Hi, I'm Ruby Hsieh (Ruby1297)
 
 <p align="center">
-🇹🇼 Computer Science senior @ Yuan-Ze University  — passionate about AI & XR,  
-building things that make people’s lives a little smarter and a lot more fun.
+🇹🇼 Computer Science senior @ Yuan-Ze University 
+</p>
+<p align="center">
+passionate about AI & XR, building things that make people’s lives a little smarter and a lot more fun.
 </p>
 
-## 🧰 Tech Stack
+## 📊 Tech Stack
 
 ### Languages  
 [![Languages](https://skillicons.dev/icons?i=c,cpp,java,js,py,php,html,css&perline=8)](https://skillicons.dev)
@@ -27,7 +29,7 @@ building things that make people’s lives a little smarter and a lot more fun.
 | 2024 | **[Classroom Behavior Analysis & Cheating Prevention](https://github.com/ruby1297/Classroom-Behavior-Analysis-and-Cheating-Prevention-System)** | TensorFlow · OpenCV · React | Face-ID attendance on Raspberry Pi & Jetson Nano, gaze tracking + real-time dashboard. |
 
 
-## 🎮 Play Time
+## 🧩 Play Time
 
 Click the button below to play my favorite logic puzzle — **Nonogram**!
 
@@ -53,5 +55,5 @@ Click the button below to play my favorite logic puzzle — **Nonogram**!
 ---
 
 <p align="center">
-  <sub>Thanks for following my github • Last updated on 2025-08-08</sub>
+  <sub> Thanks for visiting my github🩵 • Last updated on 2025-08-08</sub>
 </p>

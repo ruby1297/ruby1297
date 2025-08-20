@@ -6,7 +6,7 @@
 
 ## About Me
 
-🎓 I’m a senior at Yuan-Ze University majoring in Computer Science and Information Engineering, currently learning about AI, computer vision, and XR.  
+🎓 I’m a senior majoring in Computer Science and Information Engineering, currently learning about AI, computer vision, and XR.  
 
   
 🖥️ Seeking internship opportunities in Taiwan related to computer science, computer vision, or HCI (Human–Computer Interaction).  
